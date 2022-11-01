@@ -1,0 +1,26 @@
+@media only screen and (max-width: 425px) {
+    :root {
+    
+        --pane-padding: 5px 42px;
+        --navbar-fontSize: 40px;
+    }
+
+    navbar {
+        font-size: var(--navbar-fontSize);
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        background-color: var(--navbar-color);
+        width: 100%;
+        height: 3.5rem;
+        justify-content: space-around;
+    }
+
+    navbar #logo {
+        display: flex;
+        flex-wrap: wrap;
+        font-size: var(--navbar-fontSize);
+    }
+
+
+}

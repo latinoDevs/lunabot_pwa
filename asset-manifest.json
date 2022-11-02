@@ -1,15 +1,15 @@
 {
-  "main.css": "/my-pwa/static/css/main.617370b6.chunk.css",
-  "main.js": "/my-pwa/static/js/main.cb52bcc6.chunk.js",
-  "main.js.map": "/my-pwa/static/js/main.cb52bcc6.chunk.js.map",
-  "runtime~main.js": "/my-pwa/static/js/runtime~main.7b4924f1.js",
-  "runtime~main.js.map": "/my-pwa/static/js/runtime~main.7b4924f1.js.map",
-  "static/js/2.a77e7803.chunk.js": "/my-pwa/static/js/2.a77e7803.chunk.js",
-  "static/js/2.a77e7803.chunk.js.map": "/my-pwa/static/js/2.a77e7803.chunk.js.map",
-  "static/js/3.e8d7c53c.chunk.js": "/my-pwa/static/js/3.e8d7c53c.chunk.js",
-  "static/js/3.e8d7c53c.chunk.js.map": "/my-pwa/static/js/3.e8d7c53c.chunk.js.map",
-  "index.html": "/my-pwa/index.html",
-  "precache-manifest.bc791e15e18133ac4491810cf40414c9.js": "/my-pwa/precache-manifest.bc791e15e18133ac4491810cf40414c9.js",
-  "service-worker.js": "/my-pwa/service-worker.js",
-  "static/css/main.617370b6.chunk.css.map": "/my-pwa/static/css/main.617370b6.chunk.css.map"
+  "main.css": "/lunabot-pwa/static/css/main.617370b6.chunk.css",
+  "main.js": "/lunabot-pwa/static/js/main.cb484a84.chunk.js",
+  "main.js.map": "/lunabot-pwa/static/js/main.cb484a84.chunk.js.map",
+  "runtime~main.js": "/lunabot-pwa/static/js/runtime~main.d7e2b5e2.js",
+  "runtime~main.js.map": "/lunabot-pwa/static/js/runtime~main.d7e2b5e2.js.map",
+  "static/js/2.a77e7803.chunk.js": "/lunabot-pwa/static/js/2.a77e7803.chunk.js",
+  "static/js/2.a77e7803.chunk.js.map": "/lunabot-pwa/static/js/2.a77e7803.chunk.js.map",
+  "static/js/3.e8d7c53c.chunk.js": "/lunabot-pwa/static/js/3.e8d7c53c.chunk.js",
+  "static/js/3.e8d7c53c.chunk.js.map": "/lunabot-pwa/static/js/3.e8d7c53c.chunk.js.map",
+  "index.html": "/lunabot-pwa/index.html",
+  "precache-manifest.af328c0ed681cdec6457d7189280b7ba.js": "/lunabot-pwa/precache-manifest.af328c0ed681cdec6457d7189280b7ba.js",
+  "service-worker.js": "/lunabot-pwa/service-worker.js",
+  "static/css/main.617370b6.chunk.css.map": "/lunabot-pwa/static/css/main.617370b6.chunk.css.map"
 }
